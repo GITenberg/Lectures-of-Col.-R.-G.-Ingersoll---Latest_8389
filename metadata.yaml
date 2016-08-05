@@ -1,0 +1,36 @@
+_repo: Lectures-of-Col.-R.-G.-Ingersoll---Latest_8389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: '[1] Complete.--[2] Latest.'
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+- GITenberg
+tableOfContents: Thomas Paine -- Liberty of man, woman and child -- Orthodoxy -- Blasphemy
+  -- Some reasons why -- Intellectual development -- Human rights -- Talmagian theology
+  (second lecture) -- Talmagian theology (third lecture) -- Religious intolerance
+  -- Hereafter -- Review of his reviewers -- How the gods grow -- The religion of
+  our day -- Heretics and heresies -- The bible -- Voltaire -- Myth and miracle --
+  Ingersoll's letter, On the Chinese god -- Ingersoll's letter, Is suicide a sin?
+  -- Ingersoll's letter, The right to one's life.
+title: Lectures of Col. R. G. Ingersoll - Latest
+url: http://www.gutenberg.org/ebooks/8389
